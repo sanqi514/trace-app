@@ -1,0 +1,24 @@
+{
+  "name": "Trace · 个人记录与 AI 复盘",
+  "short_name": "Trace",
+  "description": "本地优先的灵感 / 趣事 / 复盘记录与 AI 整理工具",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f1ec",
+  "theme_color": "#f4f1ec",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
